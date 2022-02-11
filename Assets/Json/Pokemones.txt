@@ -1,0 +1,28 @@
+{
+    "pokemon": [
+    	{
+   	  "num": 1,
+     	  "name": "Bulbasaur",
+    	  "tipo": "Planta",
+    	  "debilidad": "Fuego",
+    	  "ps": 45,
+    	  "ataque": 45,
+    	  "defensa": 45,
+    	  "ataque_especial": 45,
+    	  "defensa_especial": 45,
+    	  "velocidad": 45,
+   	},
+  	{
+    	  "num": 2,
+    	  "name": "ivasaur",
+    	  "tipo": "Planta",
+    	  "debilidad": "Fuego",
+   	  "ps": 45,
+    	  "ataque": 45,
+    	  "defensa": 45,
+    	  "ataque_especial": 45,
+    	  "defensa_especial": 45,
+    	  "velocidad": 45,
+    	}
+    ]
+}
